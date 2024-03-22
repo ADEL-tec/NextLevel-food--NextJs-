@@ -2,10 +2,10 @@
 <img width="1000" alt="image" src="https://github.com/ADEL-tec/NextLevel-food--NextJs-/assets/55672188/a62238e0-85c3-441b-8917-4a125fa3b692">
 
 
-<img width="500" alt="image" src="https://github.com/ADEL-tec/NextLevel-food--NextJs-/assets/55672188/719613fd-d5bd-43b8-9aff-1b45231e4ec6">
-<img width="500" alt="image" src="https://github.com/ADEL-tec/NextLevel-food--NextJs-/assets/55672188/69227fcc-c12f-495b-995a-07107fa68c7e">
-<img width="500" alt="image" src="https://github.com/ADEL-tec/NextLevel-food--NextJs-/assets/55672188/7ef854cc-4fda-4739-b06c-92d18822f3bc">
-<img width="500" alt="image" src="https://github.com/ADEL-tec/NextLevel-food--NextJs-/assets/55672188/bbd6e461-26b9-4531-a1fb-0972bc4034cb">
+<img width="1000" alt="image" src="https://github.com/ADEL-tec/NextLevel-food--NextJs-/assets/55672188/719613fd-d5bd-43b8-9aff-1b45231e4ec6">
+<img width="1000" alt="image" src="https://github.com/ADEL-tec/NextLevel-food--NextJs-/assets/55672188/69227fcc-c12f-495b-995a-07107fa68c7e">
+<img width="1000" alt="image" src="https://github.com/ADEL-tec/NextLevel-food--NextJs-/assets/55672188/7ef854cc-4fda-4739-b06c-92d18822f3bc">
+<img width="1000" alt="image" src="https://github.com/ADEL-tec/NextLevel-food--NextJs-/assets/55672188/bbd6e461-26b9-4531-a1fb-0972bc4034cb">
 
 
 
